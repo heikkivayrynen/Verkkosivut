@@ -1,0 +1,17 @@
+body {background: black;color: white;
+}
+h1{font-size: 20;
+}
+p{font-size: 12px;
+    color: green;
+}
+.divinnimi {
+    border: 2px dotted;
+
+    width: 100px;
+    height: 100px;
+}
+ol.a {list-style-type: lower-alpha;
+}
+ul.b {list-style-type: square;
+}
