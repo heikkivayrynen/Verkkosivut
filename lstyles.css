@@ -1,0 +1,63 @@
+body {
+
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}  
+
+header {
+
+    background-color: red;
+
+}
+
+
+
+nav {
+
+    background-color: rgb(114, 223, 149);
+
+}
+
+
+section {
+
+
+    background-color: yellow;
+
+
+}
+aside {
+
+
+    background-color: rgb(49, 18, 88);
+
+
+}
+footer {
+
+
+    background-color: rgb(165, 73, 20);
+
+
+}
+
+
+#Wildo {
+
+
+    background-color: blueviolet;
+
+
+}
+
+#Woldo {
+    width: 900px;
+    height: 900px;
+    color: pink;
+    font-size: 90px;
+
+    background-size: cover;
+
+}
