@@ -52,3 +52,9 @@ ul.b {list-style-type: square;
 .header {
     background-color: rgb(255, 0, 64);
 }
+
+a:hover {
+    
+    background-color: red;
+        
+}
