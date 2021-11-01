@@ -1,10 +1,17 @@
-body {background-image: url("Nature123.png") ;
+body {
+    background-image: url("Nature123.png") ;
     background-repeat: no-repeat;
-    background-size: 100% 100%;}
-h1{font-size: 20px;
-border-style: solid;}
-h2{font-size: 20px;
-border-style: solid;}
+    background-size: 100% 100%;
+}
+
+h1{
+    font-size: 20px;
+    border-style: solid;
+}
+h2{
+    font-size: 20px;
+    border-style: solid;
+}
 .center {
     margin: auto;
     background: rgb(6, 49, 6);
@@ -28,4 +35,20 @@ p{font-size: 12px;
 ol.a {list-style-type: lower-alpha;
 }
 ul.b {list-style-type: square;
+}
+
+.sidenav {
+    width: 100px;
+    float: left;
+    background-color: grey;
+  }
+
+  .sidenav2 {
+    margin-left: 100px;
+    background-color: rgb(78, 78, 78);
+  }
+
+
+.header {
+    background-color: rgb(255, 0, 64);
 }
