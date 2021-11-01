@@ -7,3 +7,5 @@ html files will be updated after each homework
 
 Homework 07B assignment done
     Style added to html so hyperlinks used on assignments are correct colour 
+
+Updates on other html files
