@@ -42,15 +42,15 @@ body {
 }
 
 #juttu {
-    max-width: 960px;
+  max-width: 960px;
   margin: auto;
   background: white;
   padding: 10px;
 }
 
 .piechart {
-    margin: 50px;
-    position: relative;
+    margin: 0px;
+    position: fixed;
     height: 300px;
     width: 300px;
 }
