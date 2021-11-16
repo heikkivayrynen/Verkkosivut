@@ -1,0 +1,60 @@
+h1 {
+    text-shadow: 5px 5px tomato;
+}
+@media only screen and (max-width: 800px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+      h1{
+          text-shadow: 5px 5px rgb(224, 8, 188);
+        }
+}
+
+#testi1 {
+    border: 1px solid black;
+    box-shadow: 30px 30px rgb(83, 218, 42);
+}
+
+#testi2 {
+    background-color: white;
+    color: black;
+    text-shadow: 0px;
+    font-size: 30px;
+}
+
+#testi3 {
+    background-image: url("Waldo.jpg");
+    background-size: cover;
+    border: 1px solid red;
+    color: red;
+    height: 600px;
+    text-shadow: 1px 1px darkmagenta;
+}
+
+#testi4 {
+    text-shadow: none;
+}
+
+#Testilinkki1{
+    color: darkblue;
+
+    transition: color 2s;
+}
+#Testilinkki1:hover{
+    color: darkred;
+}
+#Testilinkki1:active{
+    color: yellow;
+}
+#Testilinkki2{
+    color: darkred;
+
+    transition: color 2s;
+}
+#Testilinkki2:hover{
+    color: darkblue;
+}
+#Testilinkki2:active{
+    color: white
+} 
